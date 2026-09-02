@@ -1,5 +1,5 @@
 # C1-IA
-EVALUACION 1 – CALIDAD Y PREPARACIÓN DE DATOS [IA]
+EVALUACION 1 – CALIDAD Y PREPARACIÓN DE DATOS
 
 ## Integrantes
 - Felipe Soto: felipe.soto2301@alumnos.ubiobio.cl
