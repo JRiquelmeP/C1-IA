@@ -1,4 +1,6 @@
-# Notebook
+# ¿Que cosas debe contener?
+
+## Notebook
 Un archivo .ipynb que contenga:
 - Carga del set de datos usando el comendo wget;
 - diagnóstico;
@@ -10,10 +12,10 @@ Un archivo .ipynb que contenga:
 - exportación del CSV.
 El notebook debe ejecutarse correctamente de principio a fin.
 
-# Dataset tratado
+## Dataset tratado
 - Archivo: rendimiento_academico_limpio.csv
 
-# Presentación
+## Presentación
 Incluya una presentación donde explique:
 - principales problemas encontrados;
 - principales decisiones de tratamiento;
