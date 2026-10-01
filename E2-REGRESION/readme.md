@@ -1,5 +1,5 @@
 # C2-IA
-EVALUACION 1 – Modelado Predictivo de Ingresos Recurrentes (MRR)
+EVALUACION 2 – Modelado Predictivo de Ingresos Recurrentes (MRR)
 
 ## Integrantes
 - Juan Riquelme: juan.riquelme2301@alumnos.ubiobio.cl
